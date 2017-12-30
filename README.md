@@ -3,6 +3,12 @@
 You can use the [editor on GitHub](https://github.com/steemitwang/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=12 face="黑体">黑体</font>
+<font color=#00ffff size=3>null</font>
+<font color=gray size=5>gray</font>
 
 ### Markdown
 
