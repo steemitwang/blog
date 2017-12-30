@@ -54,12 +54,7 @@ MarkDown编辑器推荐使用 Typora
 - Eostalk    (EOS论坛)    [https://eostalk.io/](https://eostalk.io/)
 - Busy (与steemit类似的UI)   [https://busy.org](https://busy.org)
 
-### 基于steem发开的app
 
-- Esteem  手机端steemit   
-- Steepshot  照片分享
-
-### 中文用户评分TOP20 
+### 中文用户评分TOP20 (学无先后，达者为师)
  [@kingscrown](https://steemit.com/@kingscrown) | [@sweetsssj](https://steemit.com/@sweetsssj) | [@chinadaily](https://steemit.com/@chinadaily) | [@oflyhigh](https://steemit.com/@oflyhigh) | [@deanliu](https://steemit.com/@deanliu) | [@ace108](https://steemit.com/@ace108)  | [@rivalhw](https://steemit.com/@rivalhw) | [@helene](https://steemit.com/@helene)  | [@lemooljiang](https://steemit.com/@lemooljiang) | [@boxmining](https://steemit.com/@boxmining) | [@shieha](https://steemit.com/@shieha)  | [@czechglobalhosts](https://steemit.com/@czechglobalhosts) | [@rea](https://steemit.com/@rea)  | [@htliao](https://steemit.com/@htliao)  | [@justyy](https://steemit.com/@justyy)  | [@tumutanzi](https://steemit.com/@tumutanzi) | [@arcange](https://steemit.com/@arcange) | [@jubi](https://steemit.com/@jubi) [@joythewanderer](https://steemit.com/@joythewanderer) | [@blackbunny](https://steemit.com/@blackbunny) 
 
-数据来源于 @chinadaily
