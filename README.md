@@ -2,6 +2,7 @@
 中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
 ````
+:tada: 活动：元旦评火热进行中……  点击查看[@rivalhw](https://steemit.com/@rivalhw)
 ### 新手常识篇 (Common knowledge)
 
 - [新人生存指南之一：steem介绍 @lemooljiang](https://cnsteem.com/steemit/@lemooljiang/3f5j36-steem)
