@@ -1,7 +1,6 @@
 ````
 中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
-
 ````
 ### 新手常识篇 (Common knowledge)
 
