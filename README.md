@@ -8,7 +8,7 @@
 - Dsound   (音频类)   [https://dsound.audio/](https://dsound.audio/)
 - Utopian.io    (开源项目奖励)   [http://utopian.io/](http://utopian.io/)
 - Chainbb   (论坛类)    [https://chainbb.com/](https://chainbb.com/)
-- Eostalk    (EOSl论坛)    [https://eostalk.io/](https://eostalk.io/)
+- Eostalk    (EOS论坛)    [https://eostalk.io/](https://eostalk.io/)
 - Busy (与steemit类似的UI)   [https://busy.org](https://busy.org)
 
 ### 基于steem发开的app
