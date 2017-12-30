@@ -1,6 +1,7 @@
 ````
-中文用户建议使用https://cnsteem.com访问  速度快
+中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
+
 ````
 ### 新手常识篇 (Common knowledge)
 
@@ -44,6 +45,7 @@ MarkDown编辑器推荐使用 Typora
 - [指教@dapeng的 "Steemit 的三大谎言" @deanliu](https://cnsteem.com/cn/@deanliu/dapeng-steemit)
 - [谈谈我对steemit社交的看法 @tvb](https://cnsteem.com/cn/@tvb/steemit-steemit-thinking-is-social)
 - [如何才能在Steemit高效地创作更多优秀的作品？@coldhair](https://cnsteem.com/cn/@coldhair/2bwiaw-steemit)
+>特别鸣谢，上述内容整理者 @tumutanzi 和@dapeng
 
 ### 基于steem开发的网站
 
