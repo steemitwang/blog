@@ -1,5 +1,8 @@
 ## Steemit导航
-
+````
+中文用户建议使用https://cnsteem.com访问
+MarkDown编辑器推荐使用 Typora
+````
 ### 新手常识篇 (Common knowledge)
 
 - [新人生存指南之一：steem介绍 @lemooljiang](https://cnsteem.com/steemit/@lemooljiang/3f5j36-steem)
