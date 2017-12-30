@@ -1,4 +1,3 @@
-## Steemit导航
 ````
 中文用户建议使用https://cnsteem.com访问
 MarkDown编辑器推荐使用 Typora
