@@ -1,6 +1,7 @@
 ````
 中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
+工具列表请访问：	http://t.cn/RHNI13Y  （@jutsyy开发）
 ````
 :tada: 活动：月旦评火热进行中……  点击查看[@rivalhw](https://steemit.com/@rivalhw)
 ### 新手常识篇 (Common knowledge)
