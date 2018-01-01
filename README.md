@@ -1,7 +1,6 @@
 ````
 中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
-工具列表请访问：	http://t.cn/RHNI13Y  （@jutsyy开发）
 ````
 :tada: 活动：月旦评火热进行中……  点击查看[@rivalhw](https://steemit.com/@rivalhw)
 ### 新手常识篇 (Common knowledge)
@@ -56,6 +55,24 @@ MarkDown编辑器推荐使用 Typora
 - Chainbb   (论坛类)    [https://chainbb.com/](https://chainbb.com/)
 - Eostalk    (EOS论坛)    [https://eostalk.io/](https://eostalk.io/)
 - Busy (与steemit类似的UI)   [https://busy.org](https://busy.org)
+
+### Steem 工具 (CN 区用户开发)
+
+- [查 VP](http://steemit.serviceuptime.net/check_vote_value.php)
+- [查看谁 MUTE你](http://steemit.serviceuptime.net/mute.php)
+- [查看点赞投票投出与投入的信息](http://mysteemitfriends.online/)
+- [steemr.org](https://steemr.org/)
+- [SteemIt SP 代理工具](https://helloacm.com/tools/steemit/delegate-form/)
+- [SteemIt 看看谁踩了你](https://helloacm.com/tools/steemit/who-downvote-you-steemit/)
+- [SteemIt 查看代理委派Steem Power](https://helloacm.com/tools/steemit/list-of-delegators/)
+- [SteemIt 查看你代理委派Steem Power的名单](https://helloacm.com/tools/steemit/list-of-delegatees/)
+- [Steemit 大鱼投票报告](https://helloacm.com/tools/steemit/list-of-outgoing/)
+- [Steemit 金主报告](https://helloacm.com/tools/steemit/list-of-incoming/)
+- [Steemit 收益报告](https://helloacm.com/tools/steemit/list-of-payout/)
+- [Steemit 投票查询，谁最近给您投票了？](https://helloacm.com/tools/steemit/list-of-lastvotes/)
+- [Steemit 投票查询，大鱼最近给谁投票了？](https://helloacm.com/tools/steemit/list-of-outgoing-votes/)
+- [Steemit 谁转发了你的文章？](https://helloacm.com/tools/steemit/list-of-reblogs/)
+- [Steemit 恢复被删除的评论](https://helloacm.com/tools/steemit/list-of-deleted-comments/)
 
 
 ### 中文用户评分TOP20 (学无先后，达者为师)
