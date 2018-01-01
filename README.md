@@ -71,7 +71,7 @@ MarkDown编辑器推荐使用 Typora
 - [Steemit 收益报告](https://helloacm.com/tools/steemit/list-of-payout/)
 - [Steemit 投票查询，谁最近给您投票了？](https://helloacm.com/tools/steemit/list-of-lastvotes/)
 - [Steemit 投票查询，大鱼最近给谁投票了？](https://helloacm.com/tools/steemit/list-of-outgoing-votes/)
-- [Steemit 谁转发了你的文章？](Steemit 谁转发了你的文章？)
+- [Steemit 谁转发了你的文章？](https://helloacm.com/tools/steemit/list-of-reblogs/)
 - [Steemit 恢复被删除的评论](https://helloacm.com/tools/steemit/list-of-deleted-comments/)
 
 ### 中文用户评分TOP20 (学无先后，达者为师)
