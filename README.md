@@ -18,6 +18,7 @@ MarkDown编辑器推荐使用 Typora
 - [新人生存指南之九：勤于打扫，与垃圾号绝交 @lemooljiang](https://cnsteem.com/cn/@lemooljiang/3s29oy)
 - [想玩转Steemit? 试试这些有意思的网站和工具 @tumutanzi](https://cnsteem.com/cn/@tumutanzi/69vabx-steemit)
 - [努力写文章却没人点赞？请看进来 @jademont](https://cnsteem.com/cn/@jademont/6wdija)
+- [教你如何抱上 utopian 大腿 @justyy](https://cnsteem.com/cn/@justyy/utopian)
 
 ### 文章编辑篇 (Post edit)
 
@@ -57,11 +58,10 @@ MarkDown编辑器推荐使用 Typora
 - Busy (与steemit类似的UI)   [https://busy.org](https://busy.org)
 
 ### Steem 工具 (CN 区用户开发)
-
 - [查 VP](http://steemit.serviceuptime.net/check_vote_value.php)
 - [查看谁 MUTE你](http://steemit.serviceuptime.net/mute.php)
 - [查看点赞投票投出与投入的信息](http://mysteemitfriends.online/)
-- [steemr.org](https://steemr.org/)
+- [steemr.org](https://steemr.org)
 - [SteemIt SP 代理工具](https://helloacm.com/tools/steemit/delegate-form/)
 - [SteemIt 看看谁踩了你](https://helloacm.com/tools/steemit/who-downvote-you-steemit/)
 - [SteemIt 查看代理委派Steem Power](https://helloacm.com/tools/steemit/list-of-delegators/)
@@ -73,7 +73,6 @@ MarkDown编辑器推荐使用 Typora
 - [Steemit 投票查询，大鱼最近给谁投票了？](https://helloacm.com/tools/steemit/list-of-outgoing-votes/)
 - [Steemit 谁转发了你的文章？](https://helloacm.com/tools/steemit/list-of-reblogs/)
 - [Steemit 恢复被删除的评论](https://helloacm.com/tools/steemit/list-of-deleted-comments/)
-
 
 ### 中文用户评分TOP20 (学无先后，达者为师)
  [@kingscrown](https://steemit.com/@kingscrown) | [@sweetsssj](https://steemit.com/@sweetsssj) | [@chinadaily](https://steemit.com/@chinadaily) | [@oflyhigh](https://steemit.com/@oflyhigh) | [@deanliu](https://steemit.com/@deanliu) | [@ace108](https://steemit.com/@ace108)  | [@rivalhw](https://steemit.com/@rivalhw) | [@helene](https://steemit.com/@helene)  | [@lemooljiang](https://steemit.com/@lemooljiang) | [@boxmining](https://steemit.com/@boxmining) | [@shieha](https://steemit.com/@shieha)  | [@czechglobalhosts](https://steemit.com/@czechglobalhosts) | [@rea](https://steemit.com/@rea)  | [@htliao](https://steemit.com/@htliao)  | [@justyy](https://steemit.com/@justyy)  | [@tumutanzi](https://steemit.com/@tumutanzi) | [@arcange](https://steemit.com/@arcange) | [@jubi](https://steemit.com/@jubi) | [@joythewanderer](https://steemit.com/@joythewanderer) | [@blackbunny](https://steemit.com/@blackbunny) 
