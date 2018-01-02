@@ -8,7 +8,6 @@ MarkDown编辑器推荐使用 Typora
 - [30分钟全面搞懂steem @gaoduzhu](https://cnsteem.com/steem/@gaoduzhu/steem)
 - [大鲸和小鱼等级的计算方法 @dapeng](https://cnsteem.com/cn/@dapeng/definition-of-small-fish-and-big-whale-on-steemit)
 - [欢迎来到 Steemit! - 新人入门手册 @incrediblesnow](https://cnsteem.com/cn/@incrediblesnow/jklx2-steemit)
-- [教你如何抱上 utopian 大腿 @justyy](https://cnsteem.com/cn/@justyy/utopian)
 
 ### 新手操作篇 (Operations)
 
