@@ -2,13 +2,13 @@
 中文用户建议使用 https://cnsteem.com 访问  速度快
 MarkDown编辑器推荐使用 Typora
 ````
-:tada: 活动：月旦评火热进行中……  点击查看[@rivalhw](https://steemit.com/@rivalhw)
 ### 新手常识篇 (Common knowledge)
 
 - [新人生存指南之一：steem介绍 @lemooljiang](https://cnsteem.com/steemit/@lemooljiang/3f5j36-steem)
 - [30分钟全面搞懂steem @gaoduzhu](https://cnsteem.com/steem/@gaoduzhu/steem)
 - [大鲸和小鱼等级的计算方法 @dapeng](https://cnsteem.com/cn/@dapeng/definition-of-small-fish-and-big-whale-on-steemit)
 - [欢迎来到 Steemit! - 新人入门手册 @incrediblesnow](https://cnsteem.com/cn/@incrediblesnow/jklx2-steemit)
+- [教你如何抱上 utopian 大腿 @justyy](https://cnsteem.com/cn/@justyy/utopian)
 
 ### 新手操作篇 (Operations)
 
