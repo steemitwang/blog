@@ -8,6 +8,7 @@ MarkDown编辑器推荐使用 Typora
 - [30分钟全面搞懂steem @gaoduzhu](https://cnsteem.com/steem/@gaoduzhu/steem)
 - [大鲸和小鱼等级的计算方法 @dapeng](https://cnsteem.com/cn/@dapeng/definition-of-small-fish-and-big-whale-on-steemit)
 - [欢迎来到 Steemit! - 新人入门手册 @incrediblesnow](https://cnsteem.com/cn/@incrediblesnow/jklx2-steemit)
+- [新手释疑:收益简单估算 [Steemit.Wang] — Steemit](https://steemit.com/cn/@jubi/4qeamz-steemit-wang)
 
 ### 新手操作篇 (Operations)
 
@@ -49,7 +50,7 @@ MarkDown编辑器推荐使用 Typora
 
 ### 基于steem开发的网站
 
-- Dtube (视频类)   ->[https://dtube.video/](https://dtube.video/)
+- Dtube (视频类)   ->[https://dtube.video/](https://dtube.video/)    [Dtube简单介绍及教程 [Steemit.Wang] — Steemit](https://steemit.com/cn/@jubi/dtube-steemit-wang)
 - Dsound   (音频类)   [https://dsound.audio/](https://dsound.audio/)
 - Utopian.io    (开源项目奖励)   [http://utopian.io/](http://utopian.io/)
 - Chainbb   (论坛类)    [https://chainbb.com/](https://chainbb.com/)
