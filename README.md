@@ -50,7 +50,7 @@ MarkDown编辑器推荐使用 Typora
 
 ### 基于steem开发的网站
 
-- Dtube (视频类)   ->[https://dtube.video/](https://dtube.video/)    [Dtube简单介绍及教程 [Steemit.Wang] — Steemit](https://steemit.com/cn/@jubi/dtube-steemit-wang)
+- Dtube (视频类)   ->[https://dtube.video/](https://dtube.video/)  教程  [Dtube简单介绍及教程](https://steemit.com/cn/@jubi/dtube-steemit-wang)
 - Dsound   (音频类)   [https://dsound.audio/](https://dsound.audio/)
 - Utopian.io    (开源项目奖励)   [http://utopian.io/](http://utopian.io/)
 - Chainbb   (论坛类)    [https://chainbb.com/](https://chainbb.com/)
