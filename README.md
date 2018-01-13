@@ -1,5 +1,6 @@
 ````
 中文用户建议使用 https://cnsteem.com 访问  速度快
+中文用户可前往 https://cnsteem.io 快速注册 
 MarkDown编辑器推荐使用 Typora
 ````
 ### 新手常识篇 (Common knowledge)
@@ -33,6 +34,7 @@ MarkDown编辑器推荐使用 Typora
 - [每个Steemit新手都应该注意的几个问题与技巧 @tumutanzi](https://cnsteem.com/cn/@tumutanzi/66fqyu-steemit)
 - [Steemit 的新手们，你们考虑过数据隐私的问题吗 @dapeng](https://cnsteem.com/cn/@dapeng/steemit)
 - [自己忽略的图片版权问题 @jubi](https://cnsteem.com/cn/@jubi/781yxp)
+- [使用Steempy和Vessel保护账号安全 @skenan](https://cnsteem.com/cn/@skenan/steempy-vessel)
 
 ### 健康心态篇 (Attitudes)
 
