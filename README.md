@@ -52,7 +52,7 @@ MarkDown编辑器推荐使用 Typora
 
 - Dtube (视频类)   ->[https://dtube.video/](https://dtube.video/)  教程  [Dtube简单介绍及教程](https://steemit.com/cn/@jubi/dtube-steemit-wang)
 - Dsound   (音频类)   [https://dsound.audio/](https://dsound.audio/)
-- Utopian.io    (开源项目奖励)   [http://utopian.io/](http://utopian.io/) 教程* [SteemIt Utopian 乌托邦怎么玩? (Bug 提交报告) | 我媳妇上了 github 的 issue report — Steemit](https://steemit.com/cn/@justyy/steemit-utopian-bug-or-github-issue-report)
+- Utopian.io    (开源项目奖励)   [http://utopian.io/](http://utopian.io/) 教程 [SteemIt Utopian 乌托邦怎么玩?](https://steemit.com/cn/@justyy/steemit-utopian-bug-or-github-issue-report)
 - Chainbb   (论坛类)    [https://chainbb.com/](https://chainbb.com/)
 - Eostalk    (EOS论坛)    [https://eostalk.io/](https://eostalk.io/)
 - Busy (与steemit类似的UI)   [https://busy.org](https://busy.org)
